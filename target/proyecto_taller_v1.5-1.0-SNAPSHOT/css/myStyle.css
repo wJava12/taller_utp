@@ -1,0 +1,13 @@
+
+.sizeT{
+    font-size: 12px;
+}
+
+.table a{
+    font-size: 13px;!important;
+}
+input[type="time"]::-webkit-calendar-picker-indicator {
+     background: none;
+ }
+
+
